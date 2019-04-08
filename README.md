@@ -22,7 +22,7 @@ UUIA起源于UUIA的开发者在对自己学校线上信息服务平台的思考
 我们开发完我们本校的校园信息服务后我们发现将代码简单修改后也可以迅速适配其他学校的信息系统，所以我们决定将我们的服务抽离出一套高校信息服务框架，其他开发者只需要按照对应的API调用规范编写少量后端代码即可利用UUIA框架迅速开发。
 ## 服务框架
 <p align="center">
-    <a href="http://uuia.info"><img src="https://ws2.sinaimg.cn/large/006tNc79ly1g1v96fl1uij310v0u07be.jpg" alt="UUIA Framwork" width="600" /></a><br /><br />
+    <img src="https://ws2.sinaimg.cn/large/006tNc79ly1g1v96fl1uij310v0u07be.jpg" alt="UUIA Framwork" width="600" />
 </p>
 
 ## 我们提供什么？
