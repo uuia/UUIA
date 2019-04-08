@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="http://uuia.info">
-        <img src="https://ws4.sinaimg.cn/large/006tNc79ly1g1te4hsp1lj305k05kweg.jpg" alt="UUIA logo" width="200" style="border-radius:50%" />
+        <img src="https://github.com/uuia/UUIA/blob/master/images/UUIA_logo.png?raw=true" alt="UUIA logo" width="200" style="border-radius:50%" />
     </a>
 </p>
 <p align="center" style="font-size:20px; font-weight:bold;">
@@ -22,7 +22,7 @@ UUIA起源于UUIA的开发者在对自己学校线上信息服务平台的思考
 我们开发完我们本校的校园信息服务后我们发现将代码简单修改后也可以迅速适配其他学校的信息系统，所以我们决定将我们的服务抽离出一套高校信息服务框架，其他开发者只需要按照对应的API调用规范编写少量后端代码即可利用UUIA框架迅速开发。
 ## 服务框架
 <p align="center">
-    <img src="https://ws2.sinaimg.cn/large/006tNc79ly1g1v96fl1uij310v0u07be.jpg" alt="UUIA Framwork" width="600" />
+    <img src="https://github.com/uuia/UUIA/blob/master/images/SystemDesign.png?raw=true" alt="UUIA Framwork" width="600" />
 </p>
 
 ## 我们提供什么？
@@ -66,10 +66,10 @@ git clone
 
 # 试用
 ## 微信服务号
-<img src="https://ws2.sinaimg.cn/large/006tNc79ly1g1vaja28hcj30ay0auq4s.jpg" alt="hulu qrcode" width="150" />
+<img src="https://github.com/uuia/UUIA/blob/master/images/hulu_qrcode.jpg" alt="hulu qrcode" width="150" />
 
 ## 微信小程序(东北大学版)
-<img src="https://ws2.sinaimg.cn/large/006tNc79ly1g1vak2g48zj30cg0ckq5x.jpg" alt="weneu qrcode" width="150" />
+<img src="https://github.com/uuia/UUIA/blob/master/images/weneu_qrcode.jpg?raw=true" alt="weneu qrcode" width="150" />
 
 # UUIA在中国
 以下高校已利用UUIA服务框架完成了本校校园信息服务的部署：  
