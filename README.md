@@ -4,9 +4,10 @@
         <img src="https://github.com/uuia/UUIA/blob/master/images/UUIA_logo.png?raw=true" alt="UUIA logo" width="200" style="border-radius:50%" />
     </a>
 </p>
-<p align="center" style="font-size:20px; font-weight:bold;">
-    <font size=5px>快速部署基于微信生态的高校信息服务</font>
-</p>
+
+<h3 align="center">快速部署基于微信生态的高校信息服务</h3>
+
+---
 
 # 概述
 **统一大学信息聚合开放服务框架** (Unified University Information Aggregation (UUIA)) 是一套基于微信生态的校园信息服务框架，我们将帮助各高校的开发者迅速地搭建起自己学校的移动端校园信息服务，开发者只需要编写本校各信息网站的信息获取代码即可，UUIA负责处理微信端冗余的交互逻辑并提供界面优美的客户端。
