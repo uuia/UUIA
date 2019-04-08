@@ -6,7 +6,10 @@
 </p>
 
 <h3 align="center">快速部署基于微信生态的高校信息服务</h3>
-
+[![](https://img.shields.io/github/license/uuia/UUIA.svg?style=flat-square)](http://uuia.info)
+[![](https://img.shields.io/maven-central/v/uuia/java-sdk.svg?style=flat-square)](http://uuia.info)
+[![](https://img.shields.io/website/http/uuia.info.svg?style=flat-square)](http://uuia.info)
+[![](https://img.shields.io/github/contributors/uuia/UUIA.svg?style=flat-square)](https://github.com/uuia/UUIA)
 ---
 
 # 概述
