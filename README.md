@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="http://uuia.info">
-        <img src="https://github.com/uuia/UUIA/blob/master/images/UUIA_logo.png?raw=true" alt="UUIA logo" width="200" style="border-radius:50%" />
+        <img src="https://github.com/uuia/UUIA/blob/master/images/UUIA_LOGO.png?raw=true" alt="UUIA logo" width="200" style="border-radius:50%" />
     </a>
 </p>
 <p align="center" style="font-size:20px; font-weight:bold;">
@@ -66,18 +66,18 @@ git clone
 
 # 试用
 ## 微信服务号
-<img src="https://github.com/uuia/UUIA/blob/master/images/hulu_qrcode.jpg" alt="hulu qrcode" width="150" />
+<img src="https://github.com/uuia/UUIA/blob/master/images/hulu_qrcode.jpg?raw=true" alt="hulu qrcode" width="150" />
 
 ## 微信小程序(东北大学版)
 <img src="https://github.com/uuia/UUIA/blob/master/images/weneu_qrcode.jpg?raw=true" alt="weneu qrcode" width="150" />
 
 # UUIA在中国
 以下高校已利用UUIA服务框架完成了本校校园信息服务的部署：  
-<img src="https://ws4.sinaimg.cn/large/006tNc79ly1g1vanat1rvj30ct0bx77f.jpg" alt="neu" width="100" />
+<img src="https://github.com/uuia/UUIA/blob/master/images/NEU.png?raw=true" alt="neu" width="100" />
 
 # 链接
 - [UUIA官网](http://uuia.info)
-- [意见反馈]()
+- [意见反馈](https://github.com/uuia/UUIA/issues)
 - QQ群：
 
 # 开源协议
