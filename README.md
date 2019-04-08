@@ -1,11 +1,11 @@
 
 <p align="center">
     <a href="http://uuia.info">
-        <img src="https://github.com/uuia/UUIA/blob/master/images/UUIA_LOGO.png?raw=true" alt="UUIA logo" width="200" style="border-radius:50%" />
+        <img src="https://github.com/uuia/UUIA/blob/master/images/UUIA_logo.png?raw=true" alt="UUIA logo" width="200" style="border-radius:50%" />
     </a>
 </p>
 <p align="center" style="font-size:20px; font-weight:bold;">
-    快速部署基于微信生态的高校信息服务
+    <font size=5px>快速部署基于微信生态的高校信息服务</font>
 </p>
 
 # 概述
@@ -74,6 +74,7 @@ git clone
 # UUIA在中国
 以下高校已利用UUIA服务框架完成了本校校园信息服务的部署：  
 <img src="https://github.com/uuia/UUIA/blob/master/images/NEU.png?raw=true" alt="neu" width="100" />
+<img src="https://github.com/uuia/UUIA/blob/master/images/dlkjxy.jpg?raw=true" alt="neu" width="100" />
 
 # 链接
 - [UUIA官网](http://uuia.info)
