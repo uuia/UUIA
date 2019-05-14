@@ -92,8 +92,7 @@ git clone https://github.com/uuia/java-sdk.git
 <img src="https://github.com/uuia/UUIA/blob/master/images/weneu_qrcode.jpg?raw=true" alt="weneu qrcode" width="150" />
 
 # UUIA在中国
-以下高校已利用或正在利用UUIA服务框架完成本校校园信息服务的部署
-
+以下高校已利用或正在利用UUIA服务框架完成本校校园信息服务的部署  
 <img src="https://github.com/uuia/UUIA/blob/master/images/university/dongbeidaxue.png?raw=true" alt="东北大学" width="100" />
 <img src="https://github.com/uuia/UUIA/blob/master/images/university/daliankejixueyuan.jpg?raw=true" alt="大连科技学院" width="100" />
 <img src="https://github.com/uuia/UUIA/blob/master/images/university/hubeigongyedaxue.jpg?raw=true" alt="湖北工业大学" width="100" />
