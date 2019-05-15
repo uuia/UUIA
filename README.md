@@ -53,6 +53,8 @@ UUIA包括
 - 丰富的社区插件
 - 实用的开发者工具
 
+<img src="https://github.com/uuia/UUIA/blob/master/images/composition.png?raw=true" alt="composition" width="600px" />
+
 ## 愿景
 **用技术推动中国高校发展建设，用创意让每位高校师生感到快乐**
 
@@ -61,7 +63,7 @@ UUIA包括
 - [UUIA开发者中心](http://uuia.info)
 ## 2. 注册开发者身份
 - [UUIA开发平台注册](http://uuia.info)
-- 加入QQ交流群：985877354
+- 加入QQ交流群：**985877354**
 ## 3. 安装SDK编写少量后端代码
 ### Maven
 ```xml
