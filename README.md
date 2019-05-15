@@ -53,7 +53,7 @@ UUIA包括
 - 丰富的社区插件
 - 实用的开发者工具
 
-<img src="https://github.com/uuia/UUIA/blob/master/images/composition.jpg?raw=true" alt="composition" width="600px" />
+<img src="https://github.com/uuia/UUIA/blob/master/images/composition.png?raw=true" alt="composition" width="600px" />
 
 ## 愿景
 **用技术推动中国高校发展建设，用创意让每位高校师生感到快乐**
