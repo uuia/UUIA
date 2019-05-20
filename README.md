@@ -151,4 +151,5 @@ git clone https://github.com/uuia/weapp.git
 # 社群联络方式
 
 UUIA 开发者 QQ 交流群：
+
 <img src="https://github.com/uuia/UUIA/blob/master/images/qqgroup.jpg?raw=true" alt="UUIA交流QQ群" width="150" />
