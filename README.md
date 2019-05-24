@@ -75,6 +75,11 @@ UUIA包括
 >目前仅提供Java SDK，其他语言SDK在全力制作中。
 - [UUIA API规范文档](http://uuia.info)
 - [UUIA开发者工具](http://uuia.info)
+
+***
+我们推荐您直接下载Java脚手架项目，脚手架本身已经引入了上面的uuia依赖以及springboot、mybatis依赖。
+***
+
 ## 4. 安装微信小程序客制化本校小程序
 ```bash
 git clone https://github.com/uuia/java-sdk.git
