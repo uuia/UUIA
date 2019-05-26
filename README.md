@@ -99,8 +99,8 @@ git clone https://github.com/uuia/java-sdk.git
 ```
 
 >目前仅提供 Java SDK,其他语言 SDK 在全力制作中。
-- [UUIA API规范文档](http://uuia.info)
-- [UUIA开发者工具](http://uuia.info)
+- [UUIA API规范文档](https://github.com/uuia/UUIA/blob/master/API.md)
+- [UUIA开发者工具](https://github.com/uuia)
 
 ***
 我们推荐您直接下载Java脚手架项目，脚手架本身已经引入了上面的uuia依赖以及springboot、mybatis依赖。
