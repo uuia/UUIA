@@ -74,10 +74,11 @@ UUIA 包括
 # 快速上手指南
 
 ## 1. 阅读开发规范
-- [UUIA开发者中心](http://uuia.info)
+- [UUIA 开发者中心](http://uuia.info)
+- [UUIA License](https://github.com/uuia/UUIA/blob/master/UUIA-LICENSE.md)
 
 ## 2. 注册开发者身份
-- [UUIA开发平台注册](http://uuia.info)
+- [UUIA 开发平台注册](http://uuia.info)
 - 加入QQ交流群：**985877354**
 
 
@@ -100,7 +101,7 @@ git clone https://github.com/uuia/java-sdk.git
 
 >目前仅提供 Java SDK,其他语言 SDK 在全力制作中。
 - [UUIA API规范文档](https://github.com/uuia/UUIA/blob/master/API.md)
-- [UUIA开发者工具](https://github.com/uuia)
+- [UUIA 开发者工具](https://github.com/uuia)
 
 ***
 我们推荐您直接下载Java脚手架项目，脚手架本身已经引入了上面的uuia依赖以及springboot、mybatis依赖。
@@ -120,9 +121,8 @@ git clone https://github.com/uuia/weapp.git
 
 
 ## 5. 联系我们进行部署
-- [UUIA开发者中心](http://uuia.info)
+- [UUIA 开发者中心](http://uuia.info)
 - [用户使用教程](http://uuia.info)
-
 
 # 试用
 
