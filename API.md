@@ -215,6 +215,12 @@ studentType|String|否|学生类型
 group | String | base | 固定值
 action | String | coursetable | 固定值
 uuid | String |  | 身份标识
+data | JSONObject |  | 学期信息（可选，默认本学期）
+
+#### 请求data说明
+属性 | 类型 | 说明
+-|-|-|-
+semester | String | 学期编号
 
 ### 4.3 返回参数
 #### 参数说明
@@ -280,6 +286,12 @@ courses|JsonArray|是|学期课表
 group | String | base | 固定值
 action | String | score | 固定值
 uuid | String |  | 身份标识
+data | JSONObject |  | 学期信息（可选，默认本学期）
+
+#### 请求data说明
+属性 | 类型 | 说明
+-|-|-|-
+semester | String | 学期编号
 
 ### 5.3 返回体
 #### 参数说明
@@ -335,6 +347,12 @@ courses|JsonArray|是|成绩课程组
 group | String | base | 固定值
 action | String | exam | 固定值
 uuid | String |  | 身份标识
+data | JSONObject |  | 学期信息（可选，默认本学期）
+
+#### 请求data说明
+属性 | 类型 | 说明
+-|-|-|-
+semester | String | 学期编号
 
 ### 6.3 返回体
 #### 参数说明
