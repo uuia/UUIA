@@ -98,7 +98,7 @@ data | JSONObject |  | 账号凭据信息
 
 #### 请求data说明
 属性 | 类型 | 说明
--|-|-|-
+-|-|-
 -- account|JsonObject|一组用户名与密码
 ---- username|String|用户名
 ---- password|String|密码
@@ -164,7 +164,7 @@ errorMsg|String|否|错误信息描述（如用户名不存在，密码错误等
 属性 | 类型 | 值 | 说明
 -|-|-|-
 group | String | base | 固定值
-action | String | userinfo | 固定值
+action | String | userInfo | 固定值
 uuid | String |  | 身份标识
 
 ### 3.3 返回体
@@ -219,7 +219,7 @@ data | JSONObject |  | 学期信息（可选，默认本学期）
 
 #### 请求data说明
 属性 | 类型 | 说明
--|-|-|-
+-|-|-
 semester | String | 学期编号
 
 ### 4.3 返回参数
@@ -290,7 +290,7 @@ data | JSONObject |  | 学期信息（可选，默认本学期）
 
 #### 请求data说明
 属性 | 类型 | 说明
--|-|-|-
+-|-|-
 semester | String | 学期编号
 
 ### 5.3 返回体
@@ -351,7 +351,7 @@ data | JSONObject |  | 学期信息（可选，默认本学期）
 
 #### 请求data说明
 属性 | 类型 | 说明
--|-|-|-
+-|-|-
 semester | String | 学期编号
 
 ### 6.3 返回体
@@ -403,7 +403,7 @@ courses|JsonArray|是|考试课程组
 属性 | 类型 | 值 | 说明
 -|-|-|-
 group | String | base | 固定值
-action | String | ecard | 固定值
+action | String | campusCard | 固定值
 uuid | String |  | 身份标识
 
 ### 7.3 返回体
