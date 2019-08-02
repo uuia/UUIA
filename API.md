@@ -213,7 +213,7 @@ studentType|String|否|学生类型
 属性 | 类型 | 值 | 说明
 -|-|-|-
 group | String | base | 固定值
-action | String | coursetable | 固定值
+action | String | courseTable | 固定值
 uuid | String |  | 身份标识
 data | JSONObject |  | 学期信息（可选，默认本学期）
 
