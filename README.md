@@ -151,7 +151,7 @@ git clone https://github.com/uuia/UUIA-Mini-APP.git
 
 UUIA 开发者 QQ 交流群：
 
-<img src="https://github.com/uuia/UUIA/blob/master/images/qqgroup.jpg?raw=true" alt="UUIA交流QQ群" width="150" />
+<img src="http://ww2.sinaimg.cn/large/006tNc79gy1g5sjuwl46dj30f00kk40y.jpg" alt="UUIA交流QQ群" width="150" />
 
 # UUIA+
 
