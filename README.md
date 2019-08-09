@@ -52,65 +52,71 @@ UUIA起源于UUIA的开发者在对自己学校线上信息服务平台的思考
 
 **人人为我，我为人人** 是UUIA开发者社区核心之理念。
 
+## 界面预览
+### 面向学生用户——微体验
+
+<img src="http://ww1.sinaimg.cn/large/006tNc79ly1g5u26utqdnj31hc0u0tgv.jpg" alt="composition" />
+
+### 面向开发者——大平台
+
+<img src="http://ww2.sinaimg.cn/large/006tNc79ly1g5su6b391uj30yf0u01cn.jpg" alt="composition" />
+
  ## 总结
 UUIA 包括
 - UUIA 服务框架
+  - 一套完整的校园信息和身份鉴权 API 规范
+  - 多语言版本 SDK
+  - 多个主题的小程序客户端开源代码
+  - 服务号网页端及推送能力一键部署
+  - UUIA 开发者后台
 - UUIA 开发者社区
-
-我们将提供以下服务：
-- 一套完整的校园信息和身份鉴权 API 规范
-- 多语言版本 SDK
-- 小程序客户端开源代码
-- 服务号网页端一键部署
-- 丰富的社区插件
-- 实用的开发者工具
-
-<img src="https://github.com/uuia/UUIA/blob/master/images/composition.png?raw=true" alt="composition" width="600px" />
+  - 丰富的社区插件
+  - 实用的开发工具
+  - UUIA+ 校际共享
 
  ## 愿景
 **依托开源社群之力用技术推动国内高校信息化统合化发展建设，并用创意让每位高校师生感到快乐。**
 
-# 快速上手指南
+# 快速上手
 
-## 1. 了解UUIA，阅读开发规范
-- [UUIA 官网](http://uuia.info)
-- [UUIA License](https://github.com/uuia/UUIA/blob/master/UUIA-LICENSE.md)
+## 阶段一：开发准备
+### 1. 小程序官网注册
+- 登录 [微信公众平台](https://mp.weixin.qq.com)，注册一个小程序（QQ小程序的准备工作类似）
+- 在「开发-开发设置」里得到微信小程序的 AppID 和 AppSecret
 
-## 2. 注册开发者身份
-- [UUIA 开放平台注册](https://uuia.cheelem.com/dev)
-- 加入QQ群（UUIA开发者交流群 | 小程序校园运营）：**985877354**
+![](https://ww3.sinaimg.cn/large/006tNc79ly1g5ssz9wvskj31j70u0wip.jpg)
 
-## 3. 安装SDK编写少量后端代码
+### 2. UUIA开放平台注册
+- 登录 [UUIA 开放平台](https://uuia.cheelem.com/dev) 注册开发者身份
+- 新建子节点并记录下您的uuiaAppId、 uuiaSecretKey明文 和 validationKey密文
 
-**Java 版本 SDK**
+![](https://ww3.sinaimg.cn/large/006tNc79ly1g5st3h155vj31n90u0ai6.jpg)
 
-```bash
-git clone https://github.com/uuia/java-sdk.git
-```
-
->目前提供 Java 与 Python 两个版本 SDK, 其他语言 SDK 在全力制作中。
-- [UUIA Java SDK 使用指南](https://github.com/uuia/UUIA-Java-SDK)
+### 3. 阅读开发规范，API文档，开发准则
+- [UUIA SDK 使用指南](https://github.com/uuia/UUIA-Java-SDK)
 - [UUIA API 规范文档](https://github.com/uuia/UUIA/blob/master/API.md)
+- [UUIA LICENSE](https://github.com/uuia/UUIA/blob/master/UUIA-LICENSE.md)
 
-<!-- ***
-我们推荐您直接下载Java脚手架项目，脚手架本身已经引入了上面的uuia依赖以及springboot、mybatis依赖。
-*** -->
+## 阶段二：后端简单开发
+### 4. 下载对应开发语言的 SDK 脚手架项目
+- [Java SDK](https://github.com/uuia/UUIA-Java-SDK)
+- [Python SDK](https://github.com/uuia/UUIA_SDK_In_Python3)
 
-## 4. 安装微信小程序客制化本校小程序
+### 5. 根据提示完成本校数据获取逻辑代码
+- 爬虫、调用学校系统API等方式皆可
 
-**基础小程序源码**
+### 6. 回到开发者平台测试子节点连通性
+![](https://ww3.sinaimg.cn/large/006tNc79ly1g5stutoyl3j327y0todmt.jpg)
 
-```bash
-git clone https://github.com/uuia/UUIA-Mini-APP.git
-```
+## 阶段三：客户端即刻部署
+### 7. 下载客户端小程序代码
+- [Pure 简约主题](https://github.com/uuia/UUIA-Mini-APP)
 
-- [小程序部署指南](https://github.com/uuia/UUIA-Mini-APP)
-- [微信小程序开发者文档](https://developers.weixin.qq.com/miniprogram/dev/api/)
-- [QQ小程序开发者文档](https://q.qq.com/wiki/develop/miniprogram/frame/)
+### 8. 补全配置信息
+- 根据本校信息补全 `/uuia/config.js` 配置文件
 
-
-## 5. 完成部署
-- [UUIA 开发者中心](https://uuia.cheelem.com/dev)
+### 9. 准备就绪
+- 尊享 UUIA 提供的日臻丰富的数据统计功能
 
 # 试用
 
@@ -119,18 +125,6 @@ git clone https://github.com/uuia/UUIA-Mini-APP.git
 
 ## 微信服务号
 <img src="https://github.com/uuia/UUIA/blob/master/images/hulu_qrcode.jpg?raw=true" alt="hulu qrcode" width="150" />
-
-# UUIA 在中国
-<!-- 以下高校已利用或部分利用 UUIA 服务框架完成本校校园信息服务的部署  
-<img src="https://github.com/uuia/UUIA/blob/master/images/university/dongbeidaxue.png?raw=true" alt="东北大学" width="100" />
-<img src="https://github.com/uuia/UUIA/blob/master/images/university/daliankejixueyuan.jpg?raw=true" alt="湖北工业大学" width="100" />
-<img src="https://github.com/uuia/UUIA/blob/master/images/university/hubeigongyedaxue.jpg?raw=true" alt="重庆电子工程职业学院" width="100" />
-<img src="https://github.com/uuia/UUIA/blob/master/images/university/hubeigongyedaxue.jpg?raw=true" alt="扬州大学" width="100" />
-<img src="https://github.com/uuia/UUIA/blob/master/images/university/hubeigongyedaxue.jpg?raw=true" alt="湖南科技大学" width="100" />
-<img src="https://github.com/uuia/UUIA/blob/master/images/university/hubeigongyedaxue.jpg?raw=true" alt="大连科技学院" width="100" />
-<img src="https://github.com/uuia/UUIA/blob/master/images/university/hubeigongyedaxue.jpg?raw=true" alt="山西大学" width="100" /> -->
-
-有超过35+款校园小程序已加入 UUIA 开放平台，更多伙伴，更多机会。
 
 # 如何贡献？
 
