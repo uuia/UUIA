@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="http://uuia.info">
+    <a href="https://uuia.cheelem.com/">
         <img src="https://ww2.sinaimg.cn/large/006tNc79ly1g5sh8jofiuj30sg0sg0uo.jpg" alt="UUIA logo" width="200" style="border-radius:50%" />
     </a>
 </p>
@@ -13,10 +13,9 @@
 ***
 
 
-<!-- [![](https://img.shields.io/github/license/uuia/UUIA.svg?style=flat-square)](http://uuia.info) -->
 [![](https://img.shields.io/website/http/uuia.info.svg?style=flat-square)](http://uuia.info)
-[![](https://img.shields.io/github/contributors/uuia/UUIA.svg?style=flat-square)](https://github.com/uuia/UUIA)
-[![](https://img.shields.io/maven-central/v/uuia/java-sdk.svg?style=flat-square)](http://uuia.info)
+![GitHub stars](https://img.shields.io/github/stars/uuia/UUIA?style=flat-square)
+<a href="https://github.com/uuia/UUIA/blob/master/UUIA-LICENSE.md">![GitHub stars](https://img.shields.io/badge/license-UUIA-yellow?style=flat-square)</a>
 
 
 
